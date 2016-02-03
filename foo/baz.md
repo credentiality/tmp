@@ -1,0 +1,1 @@
+![Tux](foo/Tux.png)
